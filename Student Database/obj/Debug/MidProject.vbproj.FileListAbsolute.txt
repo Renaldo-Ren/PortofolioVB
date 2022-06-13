@@ -1,0 +1,35 @@
+C:\Users\FX505GD\Documents\VP\ExerciseProject\bin\Debug\ExerciseProject.exe.config
+C:\Users\FX505GD\Documents\VP\ExerciseProject\bin\Debug\ExerciseProject.exe
+C:\Users\FX505GD\Documents\VP\ExerciseProject\bin\Debug\ExerciseProject.pdb
+C:\Users\FX505GD\Documents\VP\ExerciseProject\bin\Debug\ExerciseProject.xml
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.Form1.resources
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.Resources.resources
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\MidProject.vbproj.GenerateResource.cache
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\MidProject.vbproj.CoreCompileInputs.cache
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.exe
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.xml
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.pdb
+C:\Users\FX505GD\Documents\VP\MidProject\bin\Debug\ExerciseProject.exe.config
+C:\Users\FX505GD\Documents\VP\MidProject\bin\Debug\ExerciseProject.exe
+C:\Users\FX505GD\Documents\VP\MidProject\bin\Debug\ExerciseProject.pdb
+C:\Users\FX505GD\Documents\VP\MidProject\bin\Debug\ExerciseProject.xml
+C:\Users\FX505GD\Documents\VP\MidProject\obj\Debug\ExerciseProject.Resources.resources
+C:\Users\FX505GD\Documents\VP\MidProject\obj\Debug\MidProject.vbproj.GenerateResource.cache
+C:\Users\FX505GD\Documents\VP\MidProject\obj\Debug\MidProject.vbproj.CoreCompileInputs.cache
+C:\Users\FX505GD\Documents\VP\MidProject\obj\Debug\ExerciseProject.exe
+C:\Users\FX505GD\Documents\VP\MidProject\obj\Debug\ExerciseProject.xml
+C:\Users\FX505GD\Documents\VP\MidProject\obj\Debug\ExerciseProject.pdb
+C:\Users\FX505GD\Documents\VP\MidProject\obj\Debug\MidProject.vbprojAssemblyReference.cache
+C:\Users\FX505GD\Documents\VP\MidProject\obj\Debug\ExerciseProject.frmMidProject.resources
+C:\Users\FX505GD\Documents\VP\Student Database\bin\Debug\ExerciseProject.exe.config
+C:\Users\FX505GD\Documents\VP\Student Database\bin\Debug\ExerciseProject.exe
+C:\Users\FX505GD\Documents\VP\Student Database\bin\Debug\ExerciseProject.pdb
+C:\Users\FX505GD\Documents\VP\Student Database\bin\Debug\ExerciseProject.xml
+C:\Users\FX505GD\Documents\VP\Student Database\obj\Debug\MidProject.vbprojAssemblyReference.cache
+C:\Users\FX505GD\Documents\VP\Student Database\obj\Debug\ExerciseProject.frmStudentDatabase.resources
+C:\Users\FX505GD\Documents\VP\Student Database\obj\Debug\ExerciseProject.Resources.resources
+C:\Users\FX505GD\Documents\VP\Student Database\obj\Debug\MidProject.vbproj.GenerateResource.cache
+C:\Users\FX505GD\Documents\VP\Student Database\obj\Debug\MidProject.vbproj.CoreCompileInputs.cache
+C:\Users\FX505GD\Documents\VP\Student Database\obj\Debug\ExerciseProject.exe
+C:\Users\FX505GD\Documents\VP\Student Database\obj\Debug\ExerciseProject.xml
+C:\Users\FX505GD\Documents\VP\Student Database\obj\Debug\ExerciseProject.pdb

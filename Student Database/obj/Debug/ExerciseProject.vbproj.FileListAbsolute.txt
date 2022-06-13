@@ -1,0 +1,12 @@
+C:\Users\FX505GD\Documents\VP\ExerciseProject\bin\Debug\ExerciseProject.exe.config
+C:\Users\FX505GD\Documents\VP\ExerciseProject\bin\Debug\ExerciseProject.exe
+C:\Users\FX505GD\Documents\VP\ExerciseProject\bin\Debug\ExerciseProject.pdb
+C:\Users\FX505GD\Documents\VP\ExerciseProject\bin\Debug\ExerciseProject.xml
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.vbprojAssemblyReference.cache
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.Form1.resources
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.Resources.resources
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.vbproj.GenerateResource.cache
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.vbproj.CoreCompileInputs.cache
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.exe
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.xml
+C:\Users\FX505GD\Documents\VP\ExerciseProject\obj\Debug\ExerciseProject.pdb

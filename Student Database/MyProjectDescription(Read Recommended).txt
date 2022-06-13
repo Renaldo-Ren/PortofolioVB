@@ -1,0 +1,11 @@
+Hello Sir, my name is Renaldo, this is my result for the mid exam. So in my project i create a Student Assignment Project in my Mid Exam. 
+So after we run the program we can see the first tab page which is the Student Profile. 
+We enter the data and if we submit it, the input box will appear to ask the student name. 
+After that we can see the result. In the second tab page which is the File. 
+We can see there are so many file(assignment and PPT). 
+we can choose the folder or the file by click it and then click get information to know the file information. 
+And at the Last tab page which is the Student Project Calculator. 
+We can choose which arithmetic that we want to use by choose the radio button and then input the number and the limit that will stop until which number.
+That's it. I have use all of the requirement. The ToolTip is in all of the button. Image List in tree view and in profile student data.
+Oh yeah i have put all of the images in Folder "Images" and the Screenshot in the Folder "ScreenShot". 
+Just in case if sir want to see where i put it.
